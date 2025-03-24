@@ -152,14 +152,6 @@ this line from vscode
 
 ---
 
-By following this guide, you can quickly get started with Jekyll and create a static website or blog. Let me know if you need further assistance!
+By following this guide, you can quickly get started with Jekyll and create a static website or blog. 
 
-
-this line added from github
-
-this too by github
-stash 2 line from vscode.
-
-stash 2 line from vscode.
-
-this line from vscode,,,, stash learned by this last stash
+---
