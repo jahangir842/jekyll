@@ -135,6 +135,7 @@ jekyll -v
    - Your site will be available at `https://<username>.github.io/<repository-name>`.
 
 ---
+this line from vscode
 
 ### **Step 6: Explore Advanced Features**
 - **Plugins**: Extend Jekyll’s functionality with plugins (e.g., for SEO, sitemaps, or image optimization).
@@ -153,7 +154,12 @@ jekyll -v
 
 By following this guide, you can quickly get started with Jekyll and create a static website or blog. Let me know if you need further assistance!
 
+
 this line added from github
 
 this too by github
 stash 2 line from vscode.
+
+stash 2 line from vscode.
+
+this line from vscode,,,, stash learned by this last stash
